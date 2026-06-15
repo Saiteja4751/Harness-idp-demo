@@ -16,6 +16,6 @@ spec:
   sourceCode:
     provider: Github
     repoName: Harness-idp-demo
-    connectorRef: account.harness-idp-connectot-st
+    connectorRef: account.my-harness-connector-st
     branch: main
     monoRepo: false
