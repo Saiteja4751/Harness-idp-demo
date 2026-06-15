@@ -15,7 +15,7 @@ spec:
 
   sourceCode:
     provider: Github
-    repoName: flask-demo-app
+    repoName: Harness-idp-demo
     connectorRef: account.mytoken
     branch: main
     monoRepo: false
